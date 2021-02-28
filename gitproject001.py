@@ -1,6 +1,6 @@
 print("this line is for first commit")
 
-print("hilals conflicting change")
+## here is the conflict of remite master branch
 print("this line is for hilalspart branch")
 
 #test from local master
