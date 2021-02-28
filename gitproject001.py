@@ -1,8 +1,6 @@
 print("this line is for first commit")
 
 
-print("this line is for second commit")
+print("this line is for hilalspart branch")
 
-print("this line is created on Githubbbbbbb")
-
-# for merge
+#test from local master
